@@ -1,0 +1,1 @@
+java %_JAVA_OPTIONSR% -jar target/dependency/webapp-runner.jar --port 8002 target/*.war
