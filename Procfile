@@ -1,1 +1,1 @@
-web: java %_JAVA_OPTIONSR% -jar target/dependency/webapp-runner.jar --port 8001 target/*.war
+web: java %_JAVA_OPTIONSR% -jar target/dependency/webapp-runner.jar --port 8002 target/*.war
